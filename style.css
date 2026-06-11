@@ -1,0 +1,36 @@
+*
+{
+    margin: 0;
+}
+.lineheadern1
+{
+    padding: 10px;
+    display: flex;
+    margin: auto;
+    width: 85%;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+.dflex
+{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.rele1line
+{
+    background-color: #673A44;
+    width: 100%;
+}
+.line2org
+{
+    background-color: #F2F2F2;
+    width: 100%;
+}
+.line2
+{
+    width: 85%;
+    padding: 10px;
+    margin: auto;
+}
