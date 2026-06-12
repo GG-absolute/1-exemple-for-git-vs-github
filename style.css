@@ -243,8 +243,40 @@ width: 280px;
     padding-top: 50px;
     padding-bottom: 50px;
 }
+.sek4
+{
+    display: flex;
+    width: 85%;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 60px;
+}
+.sec4-1
+{
+    width: 520px;
+}
+.sek-4-h1
+{
+    font-weight: 600;
+    font-size: 42px;
+    color: #211114;
+}
+.sek-4-p
+{
+    font-weight: 100;
+    margin-top: 25px;
+    width: 480px;
+    font-size: 16px;
+    color: #666666;
+    line-height: 1.5;
+}
+.sek4 img
+{
+    width: 460px;
+}
 
-@media (max-width : 1014зч ) {
+@media (max-width : 1014px ) {
     
 }
 
